@@ -9,7 +9,7 @@ namespace MineSweeper
             string[,] map = { { "*" } };
             Console.WriteLine("*");
 
-            string[,] map = { { "*", "." } };
+
             for (int xOrdinate = 0; xOrdinate < map.GetLength(1); xOrdinate++)
             {
                 if (map[0, xOrdinate].Equals("*"))

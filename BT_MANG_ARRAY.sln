@@ -19,13 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dem_so_luong_sv_thi_do", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tim_Max_trong_mang", "Tim_Max_trong_mang\Tim_Max_trong_mang.csproj", "{90145AA8-A8C5-4788-8522-C66620FCD85C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim_Min_su_dung_method", "Tim_Min_su_dung_method\Tim_Min_su_dung_method.csproj", "{F7253478-BFCC-4D31-8632-3AD7DE5BEF4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tim_Min_su_dung_method", "Tim_Min_su_dung_method\Tim_Min_su_dung_method.csproj", "{F7253478-BFCC-4D31-8632-3AD7DE5BEF4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Them_phan_tu_vao_mang", "Them_phan_tu_vao_mang\Them_phan_tu_vao_mang.csproj", "{D1FD335D-07C1-436C-A5CE-36C1E25C32AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Them_phan_tu_vao_mang", "Them_phan_tu_vao_mang\Them_phan_tu_vao_mang.csproj", "{D1FD335D-07C1-436C-A5CE-36C1E25C32AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xoa_phan_tu_khoi_mang", "Xoa_phan_tu_khoi_mang\Xoa_phan_tu_khoi_mang.csproj", "{F5CA78E7-AE33-4A19-A416-B61C88481FF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xoa_phan_tu_khoi_mang", "Xoa_phan_tu_khoi_mang\Xoa_phan_tu_khoi_mang.csproj", "{F5CA78E7-AE33-4A19-A416-B61C88481FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gop_mang", "Gop_mang\Gop_mang.csproj", "{AD5583B6-E914-4292-A4D0-539F5CE9DBD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gop_mang", "Gop_mang\Gop_mang.csproj", "{AD5583B6-E914-4292-A4D0-539F5CE9DBD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dem_so_lan_xuat_hien_ki_tu", "Dem_so_lan_xuat_hien_ki_tu\Dem_so_lan_xuat_hien_ki_tu.csproj", "{9B9EBC44-B549-4493-8591-9F254405D151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tong_duong_cheo_ma_tran_vuong", "Tong_duong_cheo_ma_tran_vuong\Tong_duong_cheo_ma_tran_vuong.csproj", "{8744201B-02AF-42AB-94A4-E621A7B3FEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tong_cac_so_o_mot_cot", "Tong_cac_so_o_mot_cot\Tong_cac_so_o_mot_cot.csproj", "{FE80AA60-E8FC-4CF7-8367-FA894DBF0F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tim_Max_mang_2_chieu", "Tim_Max_mang_2_chieu\Tim_Max_mang_2_chieu.csproj", "{D1F650D5-8BDA-4A80-B124-420D7C29D6D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +89,22 @@ Global
 		{AD5583B6-E914-4292-A4D0-539F5CE9DBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD5583B6-E914-4292-A4D0-539F5CE9DBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD5583B6-E914-4292-A4D0-539F5CE9DBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B9EBC44-B549-4493-8591-9F254405D151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9EBC44-B549-4493-8591-9F254405D151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9EBC44-B549-4493-8591-9F254405D151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9EBC44-B549-4493-8591-9F254405D151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8744201B-02AF-42AB-94A4-E621A7B3FEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8744201B-02AF-42AB-94A4-E621A7B3FEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8744201B-02AF-42AB-94A4-E621A7B3FEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8744201B-02AF-42AB-94A4-E621A7B3FEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE80AA60-E8FC-4CF7-8367-FA894DBF0F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE80AA60-E8FC-4CF7-8367-FA894DBF0F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE80AA60-E8FC-4CF7-8367-FA894DBF0F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE80AA60-E8FC-4CF7-8367-FA894DBF0F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F650D5-8BDA-4A80-B124-420D7C29D6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F650D5-8BDA-4A80-B124-420D7C29D6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F650D5-8BDA-4A80-B124-420D7C29D6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F650D5-8BDA-4A80-B124-420D7C29D6D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
